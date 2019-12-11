@@ -1,0 +1,54 @@
+
+h1 {
+    text-align: center;
+  }
+
+#red{
+    color: red
+    }
+
+#blue{
+    color: blue
+    }
+
+#green{
+    color: green
+    }
+
+ #p01 {
+    font-size: 300%;
+ }
+
+ #p02 {
+    font-size: 50%;
+ }
+
+ #p03 {
+    text-align: center;
+ }
+
+ #p04 {
+    font-weight: bold;
+ }
+
+ #p05 {
+    font-family: "Courier";
+ }
+
+ #p06 {
+    font-size: 150%;
+    font-weight: bold;
+    color: orange
+ }
+
+ .styledFont {
+    font-size: 100%;
+    color: green
+  }
+
+img {
+    color: orange;
+    border-style: solid;
+    border-width: 10px;
+}
+    
